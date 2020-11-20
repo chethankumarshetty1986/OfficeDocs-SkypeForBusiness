@@ -25,7 +25,7 @@ appliesto:
   - Microsoft Teams
 ---
 
-# Plan your Teams voice solution 
+# Plan your Teams voice solution.
 
 This article helps you decide which Microsoft voice solution is right for your organization. After you've decided, the article provides a roadmap to content that will enable you to implement your chosen solution. 
 
